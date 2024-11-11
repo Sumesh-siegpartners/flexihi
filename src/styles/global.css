@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Regular";
+  src: local("bukra-Regular"),
+    url("../public/fonts/29LT-Bukra-Regular.otf") format("truetype");
+}
+
+@font-face {
+  font-family: "Black";
+  src: local("bukra-black"),
+    url("../public/fonts/29LT-Bukra-Black.otf") format("truetype");
+}
